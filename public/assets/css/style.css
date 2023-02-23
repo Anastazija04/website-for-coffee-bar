@@ -1,0 +1,35 @@
+.container-fluid {
+    background-image: linear-gradient(
+            rgba(76, 14, 3, 0.69),
+            rgba(58, 22, 4, 0.69)
+        ),
+        url("../Images/textures/264965-P4TIJM-916.jpg");
+}
+
+.dark-red {
+    background-color: rgb(50, 4, 4);
+}
+.bg-red {
+    background-color: red;
+}
+.positionOnFirstDiv {
+    height: 10%;
+    margin-top: 10%;
+    opacity: 0.8;
+    z-index: 1;
+}
+.positionOnSecondDiv {
+    right: 9%;
+}
+.button-position {
+    position: absolute;
+    right: 37%;
+    bottom: -10%;
+}
+.relative {
+    position: relative;
+}
+.borderClass {
+    border: 4px solid white;
+    opacity: 0.8;
+}
